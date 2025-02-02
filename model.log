@@ -1,0 +1,7 @@
+2025-02-02 11:05:58,573 INFO:The Bank Telemarketing Prediction Model Started....
+2025-02-02 11:05:58,642 INFO:Data loaded successfully.
+2025-02-02 11:05:58,708 INFO:The Dataset contains 17 Columns out of which 7 Numerical and 10 Categorical in nature
+2025-02-02 11:05:58,708 INFO:No null values present in the Dataset
+2025-02-02 11:21:09,798 WARNING:From c:\Project\Bank_Telemarketing\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-02-02 19:47:45,655 INFO:The Bank Telemarketing Prediction Model Started....
